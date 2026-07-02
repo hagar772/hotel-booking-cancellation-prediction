@@ -5,13 +5,6 @@
 Predicting hotel booking cancellations using Logistic Regression in SAS,
 to help hotels reduce revenue loss from last-minute cancellations.
 
-## Team
-- Yasmin Mahmoud
-- Hagar Ayman
-- Mariam Ahmad
-- Salma Maher
-- Roqaia Hossam
-
 ## Problem
 Hotels lose revenue when bookings are cancelled close to arrival with no
 time to resell the room. This project builds a predictive model that
